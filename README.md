@@ -1,3 +1,3 @@
 # SMu
-SMu UA 2018/19
+SMu UA 2018/19\n
 MatLab

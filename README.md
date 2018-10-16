@@ -1,2 +1,2 @@
 # SMu
-SMu UA 2018/19 | MatLab
+Sistemas Multimédia UA 2018/19 | MatLab

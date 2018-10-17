@@ -21,7 +21,7 @@ ak = [1,1,1,1,1];
 bk = [0,0,0,0,0];
 
 [x,t] = inv_fourier(Ta, f0, Np, ak, bk);
-##plot(t, x);
+plot(t, x);
 
 bk = [1,1,1,1,1];
 ak = [0,0,0,0,0];

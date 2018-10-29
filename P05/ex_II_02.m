@@ -1,0 +1,1 @@
+#Espetro2(Q,passo)

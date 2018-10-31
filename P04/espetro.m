@@ -4,4 +4,5 @@ function [X,f] = espetro(x,Ta)
   fa = 1/Ta;
   f=[-fa/2 : fa/N : (fa/2) - fa/N; 
   plot(f, abs(fft(x))/N)
+  
 endfunction

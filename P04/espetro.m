@@ -3,6 +3,5 @@ function [X,f] = espetro(x,Ta)
   N = length(t);
   fa = 1/Ta;
   f=[-fa/2 : fa/N : (fa/2) - fa/N]; 
-  plot(f, abs(fft(x))/N)
-  
+  plot(f, abs(fft(x)/N))
 endfunction

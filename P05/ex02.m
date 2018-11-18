@@ -3,10 +3,10 @@ Ta = 0.2;
 t = 0:Ta:5-Ta;
 x = sin(2*pi*t);
 u = ReconstroiSinal(x,Ta);
-##subplot(2,1,1);
-##plot(x); grid on;
-##subplot(2,1,2);
-##plot(u); grid on;
+subplot(2,1,1);
+plot(x); grid on;
+subplot(2,1,2);
+plot(u); grid on;
 
 
 #b)
